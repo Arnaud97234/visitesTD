@@ -1,0 +1,25 @@
+F-1972-056_72-56-IMP (AB)R2___MARVEL SCHEBLER (USA)__NC marque carburateur (FACET)__
+F-1976-174_FAA-76-16-02__Pompe à vide_RAPCO__NC P/N pompe à vide__
+F-1977-168-IMP (AB)_FAA 76-07-12_BS BENDIX no 583_ALLUMAGE:Interrupteur _BENDIX__Conforme__
+F-1978-104-IMP (AB)_FAA 77-12-05.__LUBRIFICATION: Vanne dérivation interne_CHAMPION__NC Référence filtre__
+F-1979-108-IMP (AB)_FAA 79-08-06__CARBURATEURS: Modification impératives_MARVEL SCHEBLER (USA)__Non équipé__
+F-1980-027-IMP (A)_FAA 79-26-05__TUYAUTERIES, LUBRIFICATION: Inspection tuyauteries souples_AIRCRAFT METAL PRODUCT__NC type tuyauterie__
+F-1980-077-IMP (AB)_FAA 80-06-05__MAGNETOS: Dureté tetes rivets et déclics_SLICK__NC P/N Magnéto__
+F-1981-169-IMP (AB)_FAA 81-16-05__MAGNETOS:Bobine criquée_SLICK__NC P/N Magnéto__
+F-1985-181_FAA-66-05-04__Carburateur _MARVEL SCHEBLER (USA)__Non équipé__
+F-1986-049IMP R1_FAA 86-01-06__Pompe à vide_AIRBONE__NC P/N Pompe à vide__
+F-1986-053-IMP (AB)_FAA 86-05-02 EMERGENCY__NAVIGATION: Vérifications impératives_UNITED INSTRUMENTS INC__Conforme__
+F-1988-132 R2 (AB)___TUYAUTERIES___CN Annulée__
+F-1988-168 R1 (AB)_PAS AD/FAA_SB BENDIX/KING 287 DU 1/04/1988_Niveau sensibilité récepteur_ALLIEDSIGNAL INC.__NC installation matériel__
+F-1989-055-IMP (AB)_FAA 89-04-02_Cf CN_Modification butée dosage air_MARVEL SCHEBLER (USA)__Non équipé__
+F-1990-229 R3 (AB)___Filtre à air_AIRBONE__CN Annulée__
+F-1992-161-IMP R2 (AB)_FAA 93-19-04_CF-1-92/SB LYC 504_CARBURATEURS:Flotteur_MARVEL SCHEBLER (USA)__Non équipé__
+F-1993-055-IMP R1 (AB)_FAA 93-11-11_SB 001/002_POMPES A CARBURANT: Remplacement_AC/TEXTRON LYCOMING & RAJAY/ROTO.__NC Atelier__
+F-1995-022-IMP (AB)_FAA 94-25-04_SB A1-78 & MSA-6_CARBURATEURS: Modification commande de richesse_MARVEL SCHEBLER (USA)__Non équipé__
+F-1996-154-IMP R1 (AB)_FAA 96-09-06 AMT. 39-9580_BRACKETT DOCUMENT 1/194_ Remplacement filtre à air_BRACKETT AIRCRAFT COMPANY__Non équipé__
+F-1996-188-IMP (A)_FAA 96-12-22__FILTRES A HUILE: Vérification du montage correct de l'adaptateur_CESSNA AIRCRAFT COMPANY, PIPER AIRCRAFT INC. (THE NEW)__NC Type Moteur__
+F-1997-184_FAA 97-16-10__Filtre_RAPCO__NC Type filtre__
+F-1998-115_FAA 98-01-06__Carburateur_MARVEL SCHEBLER (USA)__Non équipé__
+F-1998-444 R1_FAA 98-23-01_SI 238_Couplage pompe à vide___NC S/N Pompe__
+EU-2006-0375 (A)_EASA 2006-0375__: Génération électrique - Interrupteurs - Inspection/Remplacement_CARLING TECHNOLOGIES_ _NC P/N  interrupteur__
+EU-2006-0265___Contrôle transpondeur mode A/C et S__10/12/2012___OUI/2ans

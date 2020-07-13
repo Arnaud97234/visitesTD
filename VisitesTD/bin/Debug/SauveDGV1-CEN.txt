@@ -1,0 +1,37 @@
+_Génération électrique___________
+24-1_Batterie_430-035(G35)____09/10/18_9731,3_50H ou 3 mois_09/01/19_9781,3_EV_Inclus dans VP50
+_Equipement___________
+25-1_Gilets de sauvetage_RSS303E_22203 22205 25261 25262___01/03/2011__120 mois___RG/SC_
+25-2_Piles de balise de détresse_455-0012__09/10/18____Date Limite_30/09/25__S/C_
+25-3_ELT ME 406_455-6603_188-01210_30/09/2008__26/04/2013__12 mois_26/04/2014__EF_
+25-4_ELT ME 406_455-6603_188-01210_12/01/09__13/02/18__24 mois_13/02/20__EV_
+_Commandes de vol___________
+27-1_Chaine de volant de commande_Voir IPC____28/10/2018_8852,1_500h__9163,0_LB_
+27-2_Chaine de rentrée et de sortie des volets_Voir IPC____26/06/2013_8663,0_500h__9163,0_LB_
+_Carburant___________
+28-1_Tuyauteries souples carburant_Voir IPC____08/08/2009_7439,9_10 ans puis 5 ans_08/08/2014__EO_
+28-2_Bol du filtre à carburant et tamis_Voir IPC____23/07/2013__90 jours_23/10/2013__VE_
+28-3_Pompe à carburant électrique_481-666__16/12/2009_7451,0_03/05/2013__OC____
+28-4_Raccords des flexibles de  mise  à l'air libre_63913-218 5697__06/06/2012_8326,4___1000 h__9326,4_SC_
+_Trains d'atterrissage___________
+32_Tuyauteries souples du circuit de freinage_63901-009  63901-021 63901-022  63901-017______120 mois puis 60 mois___EO_
+_Navigation___________
+34-1_VHF/VOR/LOC #1: KX 155_069-1024-42_36012_____OC___EB_
+34-2_VHF/VOR/LOC #2: KX 155_0691024-31_63289_____OC___EB_
+34-3_ADF KR 87_067-1072-00_37011_____OC___EB_
+34-4_DME KN64_0661088-00_22064_____OC___EB_
+34-5_Boite de mélange KMA 24_066-1055-02_109301_30/03/2012____5 ans avec vol de controle entre la 3° et 5° année___EB_
+34-6_Transpondeur KT 76A_066-1062--00_92960___10/12/2012__24 mois___EF_
+_Dépression___________
+37-1_Pompe à vide_RA 215 CC_N6142_15/03/2012_8641,5___500h puis 100h ou 12 mois___ED_
+37-2_Pompe à vide_RA 215 CC_N 6142_19/02/2014____72 mois___SC_
+37-3_Filtre régulateur de dépression_B3-5-1__28/28/2012_8425,4_03/05/2013__100h__8525,4_SC_
+37-4_Filtre central dépression gyro_D9-18-1__07/03/2012_8225,8_03/05/2013__500h ou 12 mois__8725,8_SC_
+_Portes___________
+52-1_Mécanisme de verrouillage_Voir IPC______500h____
+_Ailes___________
+57-1_Orifices de ventilation_Voir IPC______500h___LB_
+_Hélice___________
+61-1_Hélice_76EM8S5-0-62_100294K_05/10/2007_6890.3___1000h     2000h___ED_
+_Moteur___________
+71-1_Filtre d'entrée d'air_460-32(638873)__03/05/2013_8626,8___500h__9126,8_SC_

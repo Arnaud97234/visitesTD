@@ -1,0 +1,65 @@
+1968 039_FAA 68 10__Modification impérative__NC Type Aéronef__NON_
+1968 045_FAA 68 8__Réservoirs carburant__NC Type Aéronef__NON_
+1969 054_FAA 69 15 01_BS 295_Volant cde de vol__NC Type Aéronef__NON_
+1970 072_FAA 70 16 6__Système d'échappement__NC Type Aéronef__NON_
+1970 088_FAA 70 18 5_BS 248_Compas TP__NC Type Aéronef__NON_
+1970 097_FAA 70 22 2_BS N°311/314_Bague retenue goupille__NC Type Aéronef__NON_
+1971 075_FAA 71 14 6_BS 313_Filtre Magnétos__NC Type Aéronef__NON_
+1971 079_FAA 70 26 4_76 006_Tubes support masse profondeur__NC Type Aéronef__NON_
+1971 111_FAA77 13 03_BS 588_Sélecteur carburant__NC Type Aéronef__NON_
+1972 094_FAA 72 14 7_BS 614_Gouverne de profondeur__NC Type Aéronef__NON_
+1972 112_FAA 72 17 5_BS 332_Tab de profondeur__NC Type Aéronef__NON_
+1972 153_FAA 72 24 2__Vitesse commande des gaz__NC Type Aéronef__NON_
+1974 061_FAA 74 09 04_BS 393_Ceinture AR__NC Série Aéronef__NON_
+1974 085_FAA 74 13 04_BS 670_Cde de gaz__NC Type Aéronef__NON_
+1974 124_FAA 74 18 06_BS 720_Réservoirs carburants__NC Type Aéronef__NON_
+1974 129_FAA 79 19 01__Longerons voilure__NC Type Aéronef__NON_
+1975 003_FAA 74 26 07_BS 436_Domaine d'emploi__NC Type Aéronef__NON_
+1975 072_FAA 75 68 03_BS 450_Robinet carburant__NC Série Aéronef__NON_
+1975 157_FAA 75 16 04_BS 474_Réchauffage admission__NC Type Aéronef__NON_
+F-1975-222-IMP(A)_FAA 75 24 02_BS 763_Fixations AR des sièges__NC Yype  Aéronef__NON_
+F-1976-177-IMP(A)_FAA 76 18 04_BS 519_Robinet carburant__NC Type Aéronef__NON_
+1977 015R1_FAA 76 25 06_BS 531_Tuyauteries souples radiateurs__NC Type Aéronef__NON_
+F-1977-015-R1(A)_FAA 95 26 13__Refroidissement huile__conforme__NON_
+1977 018_FAA 74 13 04__Erratum CN 77 015__NC Type Aéronef__NON_
+1977 021_FAA 77 01 03_SB 536_Drainage boitier admission__NC Type Aéronef__NON_
+1977 034_FAA 77 01 01_SB 533_Jauges carburant__NC Série Aéronef__NON_
+1977 108_FAA 77 12 01__Circuit commande carburant__NC Type Aéronef__NON_
+F-1977-231-IMP(A)_FAA 77 23 03__Bielles commande mélange__NC Série Aéronef__NON_
+F-1978-236-IMP(A)_FAA 78 23 01_BS 856_Drain carburant__NC Type Aéronef__NON_
+F-1979-080-IMP(A)_FAA 79 02 05_BS 612_Filtre carburant__NC Type Aéronef__NON_
+F-1979-151-R1(A)___CN Annulée Classification F__NC Type Aéronef__NON_
+F-1979-169-IMP(A)_FAA 79 13 03_BS 638_protection incendie__NC N° de série__NON_
+F-1979-171-IMP(A)___Conditions classification"F"__NC Type Aéronef__NON_
+F-1979-238-IMP(A)_FAA 79 22 02_BS 646_Fuites carburant_Appliqué_Concerné__NON_
+F-1979-246-IMP(A)_FAA 69 22 2_BS 527D_Volant cde__NC Type Aéronef__OUI_S/O
+F-1980-100IMP(A)_FAA 72 8 6_BS 600_COMPAS TP__NC Type Aéronef__OUI_S/O
+F-1980-175-IMP(A)_FAA 80 14 02_BS N° 679_Cde de gaz__Aéronef concerné__NON_
+1981 031___Annulée par révision 1__Annulée__NON_
+F-1981 031 R1___Annulée par révision 2__Annulée__NON_
+F-1981 031R2_FAA 86 17 01_BS 811_Annulée par révision 3__Annulée__NON_
+F-1981-031-IMPR3(A)_FAA 86 17 01_BS 811_Protections circuit électrique__Conforme__NON_
+F-1981-201-IMP(A)_FAA 81 23 05__Emplacement boitier batteries__NC Type Aéronef__NON_
+F-1986-145-IMPR1(AB)___Auto pilot King__Non équipé__NON_
+F-1987- 066_FAA 87 08 08__Annulée par révision 1__Annulée__NON_
+F-1987- 066-R2(A)_FAA 87 08 08_BS 997_CN Annulée  Longeron d'aile__Annulée__NON_
+1996 003_FAA 95 20 07__Atterrisseur principal__NC Type Aéronef__NON_
+F-1996-251-R1(A)_FAA 96 10 01_BS 975_Phare atterrissage__NC Type Aéronef__OUI_S/O
+F-1996-255-IMP(A)_FAA 96 10 03_BS 965_Commande de volets_05/04/1997_Aéronef concerné__NON_
+F-1999-154-IMP(A)_FAA 99 05 09_BS 1022_Filtre à air_29/04/1999_Vérifié conforme__NON_
+F-2000-028-IMP(A)_FAA 99 26 05__Filtre d'admission d'air__NC Type Aéronef__NON_
+N-2004 14 12(A)__SB N°1193A_Modification de la fixation de commande__NC Type Aéronef__NON_
+N-2005 19 20(A)__SB N° 05-02_Fuites carburant circuit STC SA2660CE__Aéronef non équipé__NON_
+EU-2005-0032(A)__BS 1006_Voilure - Inspection des éléments structuraux_19/07/2019_Vérifié conforme__OUI/7ans_19/07/2026
+EU-2005-0034(A)_FAA 70-26-04_BS 327_Empennage-Inspection contrepoids équilibrage__NC Type Aéronef___
+EU-2005-0035(A)__BS 1131_Atterrisseur-Inspection train d'atterrissage__NC Type Aéronef__OUI_S/O
+F-1979-151R1(A)___Annulation CN par la Révision1__Annulée___
+F-1977-018-IMP R1___Annulation CN 77-018-IMP_23/05/2007_Annulée___
+EU-2006-0265___Contrôle transpondeur mode A/C et S__Annulée__OUI/2ans_
+N-2010-15-10(A)__SB 1197B_Commandes de vol – Inspection/Rempl,_31/08/10_Vérifié conforme__NON_
+N-2010-26-04 (A)___Arrêt moteur en vol__NC Type moteur___
+F-2011-001(A)_EASA 2010-0233__Tendeurs de cables commande profond.__NC Type Aéronef___
+F-2010-01 R1 (AB)___Contamination par cendres volcaniques__NC Type Aéronef___
+N-2013-02-13(A)__BS 1245A_Inspection de commande stabilisateur horizontal_03/05/3013_Vérifié conforme_8626,8_OUI /  2000H_106268 h
+__BS1251_Conformité tambour TRIM profondeur_03/05/2013_Vérifié conforme__NON_
+N 2016-07-21(A)__BS1279A_Remplace AD 2015-20-13: inspection nervure de la voilure droite_26/04/2016_NC N° de série___

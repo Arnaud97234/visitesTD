@@ -1,0 +1,41 @@
+1963 019R1___Modification impérative_CN Annulé_NC Type Moteur__NON_
+1973 107R1__SI LYCO N°1098_Flasque porte hélice_CN Annulé_NC Type Moteur__NON_
+F-1977-016-IMP(AB)_FAA 73 23 01_CN N°75104_Axe piston__NC N° série  Moteur__NON_
+F1977-139-IMP(AB)___Axes pistons__NC N° série Moteur__NON_
+F-1977-152-IMP(AB)__CN N° 76 026_Pompe à huile__NC N° série Moteur__NON_
+F-1979-173-IMP(A)___Carburateurs MARVEL SCHEBLER "HA-6"__NC Type Carburateur__NON_
+F-1980-157-IMP(AB)_FAA 80 14 07_BS N°447/435_Ressort soupape échappement__NC N° série Moteur__NON_
+F-1981-018-IMPR2(A)_FAA 80 04 03_BS435446_Inspection distribution et huile moteur__NC Type Moteur__NON_
+1981 130_FAA 79 10 03_CN 80 168_Fixation moteur__NC Type Moteur__NON_
+1982 091_FAA 81 18 04_SB 454A_Pignons pompes à huile__NC Type Moteur__NON_
+1987 095R1_FAA 87 10 16_SB 477A_Inspections culbuteurs__NC Type Moteur__OUI_S/O
+1990 066R1_FAA 90 04 06_SB 488_Tuyauteries d'huile de régulateur__NC Type Moteur__NON_
+1991 209_FAA 91 14 22_SB 475_Inspection du pignon de vilebrequin_cn annulé_NC Type Moteur__NON_
+1991 209R1_FAA 91 14 22_SB 475_Consigne de navigabilité annulé__NC Type Moteur__NON_
+F-1992-188-IMP(A)_FAA 92 12 05_SB 501B_Axe de piston_23/08/2006_C Type Moteur__NON_
+F-1995-062-IMP(A)_FAA 95 07 01_SB 95 002_Boulons de pied de bielle_23/08/2006_C Type Moteur__NON_
+F-1996-179-IMP(AB)_FAA 96 09 10_SB LY 381 C_Remplacement de pignons de p à huile_23/08/2006_C Type Moteur__NON_
+1997 028_FAA 97 01 30_SB N°527B_Remplacement des axes de pistons__C Type Moteur__NON_
+F-1997-234-IMP(A)_FAA 97 15 11_SB 527 C_Remplacement des axes de pistons_23/08/06_C Type Moteur__NON_
+1998 116R1_FAA 98 02 08_SB 505B_Inspection du vilebrequin__NC Type Moteur__OUI_S/O
+1998 413_FAA 98 17 11__Inspection du vilebrequin__NC Type Moteur__NON_
+1999 088R4___Controle jeu des soupapes échappt_CN Annulé_NC Type Moteur__OUI_S/O
+F-2000-377 IMP(A)R1_FAA 2000 18 53_MSB 543_Joint de plaque d'adaptation du filtre__NC Type Moteur__NON_
+2001 139R1___Entretien défectueux_CN annulé_NC Atelier__NON_
+F-2002-384-IMP(A)_2002 12 07_MSB 543 A_Joint de plaque d'adaptation du filtre__NC Type Moteur__NON_
+N 2004-10-14_FAA 2004 10 14_SB N° 475C_Remplacement boulon fixation pignon vilebrequin_Si choc hélice_Concerné par type Moteur__NON_
+F-2005-23(A)_2005 23__Entretien défectueux__NC Atelier__NON_
+N-2005 19 11_FAA2005 19 11_SB N° 566_Remplacement vilebrequins__NC Type Moteur__NON_
+N-2005 26 10_FAA 2005 26 10__Contrôle et remplacement cylindre ECI__NC type cylindres__NON_
+EU-2005-0023R2_EASA2005-0023 R2_BS 388C_Controle jeu des soupapes échappement_CN Annulé_Concerné par type moteur__OUI_S/O
+EU-2005-0023 R3_EASA2005-0023 R3_BS 388_Controle jeu des soupapes échappement__NC type cylindres__OUI_
+N-2006 06 16_FAA 2006 06 16__Remplacement vilebrequins__NC Type Moteur__NON_
+N-2006 10 21_FAA 2006 10 21__Remplacement certaines bielles de liaison ECI__NC type bielles__NON_
+N-2006 12 07_FAA 2006 12 07__Contrôle et remplacement certains cylindres ECI__NC type cylindres__NON_
+N-2006 20 09_FAA2006-20-09_SB 569 A_Inspection/Remplacement vilebrequin__NC Type Moteur__NON_
+N-2007-04-19R1_FAA2007-04-19R1_SB B06-01Rev E_Superior Air Parts (SAP) Cylindres-Remplacement__NC P/N cylindres__NON_
+N-2008-14-07(A)___Circuit carburant et commandes (Injection)__NC Type Moteur___
+N 2008-19-05_FAA 2008-19-05__Inspection ret Remplacement Cylindres ECi__NC type cylindres__OUI_S/O
+N-2009-26-12___Inspection ret Remplacement Cylindres ECi__NC type cylindres__OUI_S/O
+N-2010-07-08_FAA 2010-07-08__Turbines et turbocompresseurs Kelly Aerospace__Non équipé___S/O
+_FAA 2012-03-07_SB18 ou Rev.A_Carburateurs MARVEL SCHEBLER "HA-6"_27/03/2012_NC Type carbarateur__NON_

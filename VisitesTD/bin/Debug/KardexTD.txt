@@ -1,0 +1,54 @@
+﻿
+_Génération électrique___________
+24-1_Batterie_450-035(G-35)____09/10/8_9731.3_50H/3 mois_09/01/19_9781,3_EV_Inclus dans la VP50
+_Equipement___________
+25-1_Gilets de sauvetage_RSS303E_22203___Mars 2011  Mars 2011  Janv 2011  Janv 2011__120 mois_Mars 2021   Mars 2021  Janv 2021  Janv 2021__RG/SC_
+25-2_Pile balise de détresse_455-0012__13/12/13___Date Limite__30/09/25__S/C_
+25-3_ELT ME 406_453-6603_188-01210_13/12/13____12 mois_13/12/14__EF_
+_Commandes de vol___________
+27-1_Chaîne du volant de commande_Voir IPC____26/06/13_8663,0_500h__9163,0_LB_
+27-2_Chaine de rentrée et de sortie des volets_Voir IPC____26/06/13_8663,0_500h__9163,0_LB_
+_Carburant___________
+28-1_Tuyauteries souples carburant_Voir IPC____08/08/09_7439.9_10 ans  puis 5 ans_08/08/14__EO            EO_
+28-2_Bol du filtre à carburant et tamis_Voir IPC____23/06/14__90 jours_23/09/14__VE_
+28-3_Pompe à carburant électrique_481-666__16/12/09_7541,0___OC___RG/SC_
+28-4_Raccords flexibles des tuyauteries de mise l'air libre_63913-218          56976-37__06/06/12_8326,4___1000 h_06/06/19_9326,4_SC_
+_Train d'atterrissage___________
+32-1_Tuyauteries souples du circuit de freinage_63901-009   63901-021   63901-022   63901-017____26/06/13__120 mois              puis            60 mois_26/06/18__EO                                            EO_
+_Navigation___________
+34-1_VHF/VOR/LOC #1 KX 155_069-1024-42_36 012_____OC___EB_
+34-2_VHF/VOR/LOC #2 KX 155_069-1024-31_63289_____OC___EB_
+34-3_ ADF KR 87_066-1072-00_37 011_____OC___EB_
+34-4_DME KN64_066-1088-00_22064_____OC___EB_
+34-5_Boite de mélange KMA 24_066-1055-02_109301_30/03/12____72 mois_30/03/18__EB_
+34-6_Transpondeur KT76A_066-1062-00_92960___10/12/12__24 mois_10/12/14__EF_Véification chaine ATC
+_Dépression___________
+37-1_Pompe à vide_RA 215 CC_N61492___13/05/14_8816,3_500 h        puis       100h/12mois_13/05/15_8916,3_ED                        ED_
+37-2_Pompe à vide_RA 215 CC_N61492_19/02/14_8718,5___72 mois_18/02/18__SC_1° installation 15/03/12 sur moteur RL-33729-36A
+37-3_Filtre régulateur dépession_B3-5-1__19/06/14_8866,3___100h__8966,3_SC_
+37-4_Filtre central dépression gyro_D9-18-1__07/04/14_8767,8___500h/12mois_07/04/15_9267,8_SC_
+_Portes___________
+52-1_Mécanisme de verrouillage_Voir IPC____26/06/13_8663,0_500h__9163,0_LB_
+_Ailes___________
+57-1_Orifices de ventilation _Voir IPC____26/06/13_8663,0_500h__9163,0_LB_
+_Hélice___________
+61-1_Hélice_76EM8S5-0-62_100294K_05/10/07_6890,3___1000h       2000h__7890,3  8890,3_ED        RG_
+_Moteur___________
+71-1_Filtre d'entrée d'air_460-632 (638873__03/05/13_8626,8___500h__9126,8_SC_
+_Commandes et carburant moteur___________
+73-1 (B31)_Tuyauteries carburant souples en zone moteur_63901-007   63901-012   63901-014   63901-019    63901-077__03/05/13_8626,8___1000h/96 mois ou potentiel moteur_30/09/19_9626,8_SC_
+73-2_Pompe à carburant mécanique_LW-15472_02NE14_19/02/14_8718,5___Potentiel moteur__11118,5_RG/SC_
+_Allumage___________
+74-1_Magnétos_L: 4371    R: 4370_13041786  13100246_19/02/14_8718,5_09/05/2014_8816,3_100/12mois_09/05/15_8916,3_EV_CMM Slick L-1363 §3.2
+74-2_Magnétos_L: 4371    R: 4370_13041786  13100246_19/02/14_8718,5___Potentiel Moteur__11118,5_RG_
+B21_Magnétos_L: 4371    R: 4370_13041786  13100246_19/02/14_8718,5___250h__8968,5_ED_Effectuer inspection 500h suivant CMM Slick L-1363 §3.3 (tolérance 250h, réduction de potentiel exploitant)
+_Echappement___________
+78-1_Silencieux_66894-003__19/02/14_8718,5___1000h__9718,5_ED_Tolérance 100h (item exploitant)
+_Huile moteur___________
+79-1_Huile moteur_D100__23/06/14____4 mois_23/10/14__SC_Lycoming SB 480
+79-2_Filtre à huile moteur_AA48110-2__23/06/14____4 mois_23/10/14__SC_Lycoming SB 480
+B9_Radiateur d'huile_18622-000____19/02/2014_8718,5_500h__9218,5_VE_Déposer et rincer
+_Moteur à pistons___________
+85-1_Moteur_O-360-A4-M_L-30677-36AC_19/02/14_8718,5_23/06/14_8866,3_1ère 25 h    2400h__8743,5  11118,5_EV            RG_25h après changement moteur effectuer une 50h et remplacer l'huile.                                    Voir guide OSAC G-41-11 et LYCOMING SI-1009
+85-2_Soupapes, culbuteurs_Voir IPC__19/02/14_8718,5___400h__9118,5__
+85-3_Tuyauteries huile souples en zone moteur_63901-026 63901-027 63901-043__03/05/13_8626,8___1000h/96 mois ou potentiel moteur_30/06/20 31/03/20 30/06/20_9626,8_SC_Lycoming SB240         et CN 1977-015

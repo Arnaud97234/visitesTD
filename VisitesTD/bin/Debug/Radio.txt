@@ -1,0 +1,16 @@
+Nom_Pos_  P/N_ S/N_Fabricant_Intervalle_Action_Date ins_
+Nav/Com 1 KX155/760_1_069-1024-42_36 012_KING_OC_EB__
+Nav/Com 2 KX155/760_1_069-1024-31_63 289_KING_OC_EB__
+MKR REC KMA 24_1_066-1055-02_34971_KING_72 mois_EB_Remplacement le 30/03/2012_
+ADF REC KR 87_1_066-1072-00_37 011_KING_OC_EB__
+ATC REC EM KT 76A_1_066-1062-00_92960_KING_24 mois_EF__
+DME REC EM KN 64_1_066-1088-00_22064_KING_OC_EB__
+RBDA_1_453-6603_188-01210_ARTEX ME406_1 an: test: fonctionnement, sensors, puissance d'emission__26 avril 2013_
+GILETS_4___Regent Aerospace_120 mois__avril 2011_
+COMPAS_1____2 ans: compensation__Remplacement le 23/05/2012_
+CEN_______12 juin 2012_
+PESEE_____5 ans__14 avril 2011_
+LSA_____4 ans__5 novembre 2009_
+________
+EB: passage au banc________
+EF: examen de fonctionnement________
